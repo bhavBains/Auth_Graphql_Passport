@@ -1,10 +1,10 @@
 {
-  "name": "users",
+  "name": "graphql_auth",
   "version": "1.0.0",
-  "description": "Starter pack for an auth-included graphql project",
+  "description": "graphql project with react node mongo passport.js auth",
   "repository": {
     "type": "git",
-    "url": "github.com/stephengrider"
+    "url": "github.com/bhavBains"
   },
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "html-webpack-plugin": "^2.26.0",
     "lodash": "^4.17.4",
     "mongoose": "^4.7.8",
+    "nodemon": "^2.0.2",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "react": "^15.4.2",
